@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.605e376e.css",
-    "main.js": "/static/js/main.deb18322.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/index.html",
-    "main.605e376e.css.map": "/static/css/main.605e376e.css.map",
-    "main.deb18322.js.map": "/static/js/main.deb18322.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/monster-card/static/css/main.605e376e.css",
+    "main.js": "/monster-card/static/js/main.eda00f2c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/monster-card/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/monster-card/index.html",
+    "main.605e376e.css.map": "/monster-card/static/css/main.605e376e.css.map",
+    "main.eda00f2c.js.map": "/monster-card/static/js/main.eda00f2c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/monster-card/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.605e376e.css",
-    "static/js/main.deb18322.js"
+    "static/js/main.eda00f2c.js"
   ]
 }
